@@ -1,9 +1,5 @@
 <p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/oscareduardorodriguezcastro3-lab/oscareduardorodriguezcastro3-lab/main/banner-github.png" 
-    alt="Portada de Oscar Eduardo Rodríguez Castro" 
-    width="100%" 
-  />
+
 </p>
 
 <h1 align="center">Hola, soy Oscar Eduardo Rodríguez Castro 👋</h1>
